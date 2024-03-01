@@ -1,0 +1,16 @@
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\bin\Debug\net5.0\POO2_encapsulacion.exe
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\bin\Debug\net5.0\POO2_encapsulacion.deps.json
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\bin\Debug\net5.0\POO2_encapsulacion.runtimeconfig.json
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\bin\Debug\net5.0\POO2_encapsulacion.runtimeconfig.dev.json
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\bin\Debug\net5.0\POO2_encapsulacion.dll
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\bin\Debug\net5.0\POO2_encapsulacion.pdb
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\obj\Debug\net5.0\POO2_encapsulacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\obj\Debug\net5.0\POO2_encapsulacion.AssemblyInfoInputs.cache
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\obj\Debug\net5.0\POO2_encapsulacion.AssemblyInfo.cs
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\obj\Debug\net5.0\POO2_encapsulacion.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\obj\Debug\net5.0\POO2_encapsulacion.sourcelink.json
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\obj\Debug\net5.0\POO2_encapsulacion.dll
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\obj\Debug\net5.0\refint\POO2_encapsulacion.dll
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\obj\Debug\net5.0\POO2_encapsulacion.pdb
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\obj\Debug\net5.0\POO2_encapsulacion.genruntimeconfig.cache
+C:\Users\HP PROBOOK\source\repos\POO2_encapsulacion\obj\Debug\net5.0\ref\POO2_encapsulacion.dll
